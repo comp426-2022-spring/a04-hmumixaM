@@ -1,0 +1,27 @@
+{
+  "name": "a04-hmumixam",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7038066&assignment_repo_type=AssignmentRepo) # a03 This assignment will introduce creating APIs using Express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hmumixaM: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@github.com/comp426-2022-spring/a03-hmumixaM.git"
+  },
+  "author": "Yang Hu",
+  "license": "GPL-3.0-or-later",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a04-hmumixaM/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a04-hmumixaM#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.5.1",
+    "express": "^4.17.3",
+    "minimist": "^1.2.5",
+    "morgan": "^1.10.0"
+  }
+}
